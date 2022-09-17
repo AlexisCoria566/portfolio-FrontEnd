@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "portfolio-frontend",
+  "description": "My portfolio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexisCoria566/portfolio-FrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexisCoria566/portfolio-FrontEnd/issues"
+  },
+  "homepage": "https://github.com/AlexisCoria566/portfolio-FrontEnd#readme"
+}
